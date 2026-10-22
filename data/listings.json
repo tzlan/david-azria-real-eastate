@@ -1,0 +1,284 @@
+{
+  "syncedAt": null,
+  "listings": [
+    {
+      "id": "demo_000001",
+      "status": "available",
+      "transaction": "sale",
+      "propertyType": "apartment",
+      "summary": "Lumineux 4 pièces rénové avec balcon soukka, à deux pas du parc de Rehavia.",
+      "description": "Magnifique appartement de 4 pièces entièrement rénové, au cœur de Rehavia.\n\nSalon traversant baigné de lumière, cuisine équipée ouverte, trois chambres dont une suite parentale. Balcon soukka avec vue dégagée sur les toits.\n\nImmeuble en pierre de Jérusalem avec ascenseur de Chabbat. Parking privatif et débarras.",
+      "price": 4650000,
+      "rooms": 4,
+      "surface": 105,
+      "floor": 3,
+      "totalFloors": 4,
+      "neighborhood": "rehavia",
+      "street": "Rehov Ramban",
+      "features": [
+        "elevator",
+        "shabbat-elevator",
+        "sukkah-balcony",
+        "parking",
+        "storage",
+        "renovated",
+        "mamad"
+      ],
+      "publishedAt": "2026-10-21T09:12:00+03:00",
+      "demo": true,
+      "slug": "vente-appartement-4-pieces-rehavia-000001",
+      "title": "Appartement 4 pièces à Rehavia",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1741764014072-68953e93cd48?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1713832139688-79676097edde?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1663811397207-418a92396ad5?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        }
+      ],
+      "lat": 31.772599999999997,
+      "lng": 35.2109,
+      "sourceUrl": "https://www.facebook.com/profile.php?id=61577646827725",
+      "updatedAt": "2026-10-21T09:12:00+03:00"
+    },
+    {
+      "id": "demo_000002",
+      "status": "available",
+      "transaction": "sale",
+      "propertyType": "garden-apartment",
+      "summary": "Rez-de-jardin de 5 pièces avec 80 m² de jardin privatif, rue calme.",
+      "description": "Rare rez-de-jardin dans une rue calme de la German Colony.\n\n5 pièces, 130 m², double séjour ouvrant sur un jardin de 80 m² plein sud. Mamad, climatisation centrale, cuisine sur mesure.\n\nIdéal famille, à 5 minutes à pied d'Emek Refaim.",
+      "price": 6900000,
+      "rooms": 5,
+      "surface": 130,
+      "floor": 0,
+      "totalFloors": 3,
+      "neighborhood": "german-colony",
+      "street": "Rehov Lloyd George",
+      "features": [
+        "garden",
+        "mamad",
+        "air-conditioning",
+        "storage"
+      ],
+      "publishedAt": "2026-10-19T18:40:00+03:00",
+      "demo": true,
+      "slug": "vente-rez-de-jardin-5-pieces-german-colony-000002",
+      "title": "Rez-de-jardin 5 pièces à German Colony",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1680416124510-5eae1beca412?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1738168246881-40f35f8aba0a?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1715985160053-d339e8b6eb94?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        }
+      ],
+      "lat": 31.7632,
+      "lng": 35.221,
+      "sourceUrl": "https://www.facebook.com/profile.php?id=61577646827725",
+      "updatedAt": "2026-10-19T18:40:00+03:00"
+    },
+    {
+      "id": "demo_000003",
+      "status": "available",
+      "transaction": "rent",
+      "propertyType": "apartment",
+      "summary": "3 pièces meublé, idéal jeune couple, proche du shouk.",
+      "description": "Charmant 3 pièces meublé à Nachlaot, entièrement refait à neuf.\n\nSéjour avec cuisine ouverte, deux chambres, salle de bain moderne. Climatisation dans toutes les pièces.\n\nÀ 3 minutes à pied de Mahane Yehuda. Disponible immédiatement.",
+      "price": 7800,
+      "rooms": 3,
+      "surface": 62,
+      "floor": 1,
+      "totalFloors": 2,
+      "neighborhood": "nachlaot",
+      "street": null,
+      "features": [
+        "furnished",
+        "air-conditioning",
+        "renovated"
+      ],
+      "publishedAt": "2026-10-18T12:05:00+03:00",
+      "demo": true,
+      "slug": "location-appartement-3-pieces-nachlaot-000003",
+      "title": "Appartement 3 pièces à Nachlaot",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1512914890251-2f96a9b0bbe2?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1638454668466-e8dbd5462f20?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1738168279272-c08d6dd22002?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        }
+      ],
+      "lat": 31.783099999999997,
+      "lng": 35.211,
+      "sourceUrl": "https://www.facebook.com/profile.php?id=61577646827725",
+      "updatedAt": "2026-10-18T12:05:00+03:00"
+    },
+    {
+      "id": "demo_000004",
+      "status": "under-offer",
+      "transaction": "sale",
+      "propertyType": "penthouse",
+      "summary": "Penthouse 6 pièces, terrasse panoramique de 60 m² face à la Vieille Ville.",
+      "description": "Penthouse d'exception à Talbieh.\n\n6 pièces sur 170 m², terrasse de 60 m² avec vue panoramique sur la Vieille Ville. Suite parentale avec dressing, mamad, deux places de parking.\n\nImmeuble de standing avec gardien.",
+      "price": 14500000,
+      "rooms": 6,
+      "surface": 170,
+      "floor": 6,
+      "totalFloors": 6,
+      "neighborhood": "talbieh",
+      "street": null,
+      "features": [
+        "elevator",
+        "shabbat-elevator",
+        "view",
+        "parking",
+        "mamad",
+        "air-conditioning"
+      ],
+      "publishedAt": "2026-10-15T10:30:00+03:00",
+      "demo": true,
+      "slug": "vente-penthouse-6-pieces-talbieh-000004",
+      "title": "Penthouse 6 pièces à Talbieh",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1757924461488-ef9ad0670978?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1758448755952-42b404bc6f39?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1628592102751-ba83b0314276?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        }
+      ],
+      "lat": 31.7712,
+      "lng": 35.2179,
+      "sourceUrl": "https://www.facebook.com/profile.php?id=61577646827725",
+      "updatedAt": "2026-10-15T10:30:00+03:00"
+    },
+    {
+      "id": "demo_000005",
+      "status": "available",
+      "transaction": "sale",
+      "propertyType": "apartment",
+      "summary": "3,5 pièces avec balcon, quartier familial et calme d'Arnona.",
+      "description": "Bel appartement de 3,5 pièces à Arnona, dans un immeuble récent.\n\nSéjour lumineux ouvert sur un balcon, cuisine indépendante, deux chambres et un bureau. Mamad, ascenseur, parking.\n\nProche écoles, synagogues et commerces.",
+      "price": 3150000,
+      "rooms": 3.5,
+      "surface": 88,
+      "floor": 2,
+      "totalFloors": 7,
+      "neighborhood": "arnona",
+      "street": null,
+      "features": [
+        "elevator",
+        "balcony",
+        "mamad",
+        "parking"
+      ],
+      "publishedAt": "2026-10-12T16:20:00+03:00",
+      "demo": true,
+      "slug": "vente-appartement-3-5-pieces-arnona-000005",
+      "title": "Appartement 3,5 pièces à Arnona",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1738168279272-c08d6dd22002?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1741764014072-68953e93cd48?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1638454668466-e8dbd5462f20?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        }
+      ],
+      "lat": 31.745099999999997,
+      "lng": 35.226,
+      "sourceUrl": "https://www.facebook.com/profile.php?id=61577646827725",
+      "updatedAt": "2026-10-12T16:20:00+03:00"
+    },
+    {
+      "id": "demo_000006",
+      "status": "sold",
+      "transaction": "sale",
+      "propertyType": "duplex",
+      "summary": "Duplex 5 pièces avec vue, vendu en 3 semaines.",
+      "description": "Duplex de 5 pièces à Baka, vendu en trois semaines.\n\nVous cherchez un bien similaire ? Contactez-moi : de nouvelles opportunités arrivent chaque semaine.",
+      "price": null,
+      "rooms": 5,
+      "surface": 140,
+      "floor": 3,
+      "totalFloors": 4,
+      "neighborhood": "baka",
+      "street": null,
+      "features": [
+        "view",
+        "sukkah-balcony",
+        "elevator"
+      ],
+      "publishedAt": "2026-09-28T11:00:00+03:00",
+      "demo": true,
+      "slug": "vente-duplex-5-pieces-baka-000006",
+      "title": "Duplex 5 pièces à Baka",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1738168246881-40f35f8aba0a?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1628592102751-ba83b0314276?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1512914890251-2f96a9b0bbe2?auto=format&fit=crop&w=1800&h=1200&q=80",
+          "width": 1800,
+          "height": 1200
+        }
+      ],
+      "lat": 31.7562,
+      "lng": 35.224,
+      "sourceUrl": "https://www.facebook.com/profile.php?id=61577646827725",
+      "updatedAt": "2026-09-28T11:00:00+03:00"
+    }
+  ]
+}
